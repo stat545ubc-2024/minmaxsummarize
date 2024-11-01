@@ -1,0 +1,13 @@
+Package: minmaxsummarize
+Title: Min-max Scaling on Numeric Values to a New Range and Compute Summary Statistics
+Version: 0.1.0
+Authors@R: 
+    person("Yizhou", "Li", email = "yli132@student.ubc.ca", role = c("aut", "cre"))
+Description: Scales a numeric vector to fit within a range using min-max scaling and compute summary (mean, median and std).
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Config/testthat/edition: 3
+Imports: 
+    testthat
