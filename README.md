@@ -15,7 +15,7 @@ range using min-max scaling and compute summary (mean, median and std).
 You can install the development version of minmaxsummarize like so:
 
 ``` r
-devtools::install_github("sleepEarly7z/minmaxsummarize")
+devtools::install_github("stat545ubc-2024/minmaxsummarize")
 ```
 
 ## Example
